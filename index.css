@@ -303,7 +303,7 @@
     }
     .price-label { color: var(--text-muted); font-size: .78rem; text-transform: uppercase; letter-spacing: 1px; }
     .price-value {
-      font-family: 'Syne', sans-serif; font-size: 2.2rem; font-weight: 800;
+      font-family: 'Syne', sans-serif; font-size: 1.4rem; font-weight: 800;
       color: var(--green-400); line-height: 1;
       margin: .2rem 0 .2rem;
     }

@@ -1,4 +1,4 @@
-
+import { SpeedInsights } from "@vercel/speed-insights/next";
   // ===== TYPED TEXT EFFECT =====
   const words = ['Notre Expertise.', 'Votre Réussite.', 'L\'Innovation.'];
   let wi = 0, ci = 0, deleting = false;
